@@ -1,0 +1,13 @@
+{
+    "dataset": "data\\processed\\bottle\\test",
+    "total_frames": 45,
+    "total_time_sec": 2.458,
+    "avg_fps": 18.31,
+    "resnet_class_stats": {
+        "good": 45
+    },
+    "resnet_defect_rate": 0.0,
+    "yolo_frames_with_bbox": 0,
+    "yolo_detection_stats": {},
+    "yolo_detection_rate": 0.0
+}

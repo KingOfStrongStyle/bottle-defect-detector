@@ -1,0 +1,4 @@
+2025-11-27 16:39:11,168 - __main__ - INFO -  Logger test passed
+2025-11-27 16:39:11,169 - __main__ - INFO -  Seed test passed
+2025-11-27 16:39:11,169 - __main__ - INFO -  Device test passed: cpu
+2025-11-27 16:39:11,169 - __main__ - INFO -  Create dirs test passed

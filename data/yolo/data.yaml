@@ -1,0 +1,10 @@
+path: C:/Users/Legion 5 pro/Desktop/defect-detection-system/data/yolo
+train: images/train
+val: images/val
+test: images/test
+
+nc: 3
+names: 
+  0: defect_broken_large
+  1: defect_broken_small
+  2: defect_contamination

@@ -1,0 +1,100 @@
+2025-11-27 17:03:28,852 - __main__ - INFO - === Подготовка данных: Bottle (MVTec AD) ===
+2025-11-27 17:03:29,156 - __main__ - INFO - Bottle / good: train=160, val=34, test=35
+2025-11-27 17:03:29,185 - __main__ - INFO - Bottle / defect_broken_large: train=14, val=3, test=3
+2025-11-27 17:03:29,218 - __main__ - INFO - Bottle / defect_broken_small: train=15, val=3, test=4
+2025-11-27 17:03:29,249 - __main__ - INFO - Bottle / defect_contamination: train=14, val=3, test=4
+2025-11-27 17:03:29,250 - __main__ - INFO - Мета-информация сохранена в C:\Users\Legion 5 pro\Desktop\defect-detection-system\data\dataset_info.json
+2025-11-30 19:48:33,600 - __main__ - INFO - === Подготовка данных: Bottle (MVTec AD) ===
+2025-11-30 19:48:33,927 - __main__ - INFO - Bottle / good: train=160, val=34, test=35
+2025-11-30 19:48:33,957 - __main__ - INFO - Bottle / defect_broken_large: train=14, val=3, test=3
+2025-11-30 19:48:33,990 - __main__ - INFO - Bottle / defect_broken_small: train=15, val=3, test=4
+2025-11-30 19:48:34,022 - __main__ - INFO - Bottle / defect_contamination: train=14, val=3, test=4
+2025-11-30 19:48:34,024 - __main__ - INFO - Мета-информация сохранена в C:\Users\Legion 5 pro\Desktop\defect-detection-system\data\dataset_info.json
+2025-11-30 19:48:34,024 - __main__ - INFO - Генерация YOLO-данных для Bottle...
+2025-11-30 19:48:34,026 - __main__ - INFO - Генерация YOLO аннотаций для Bottle / train
+2025-11-30 19:48:35,883 - __main__ - INFO - Генерация YOLO аннотаций для Bottle / val
+2025-11-30 19:48:36,276 - __main__ - INFO - Генерация YOLO аннотаций для Bottle / test
+2025-11-30 19:48:36,743 - __main__ - INFO - YOLO data.yaml сохранён: C:\Users\Legion 5 pro\Desktop\defect-detection-system\data\yolo\data.yaml
+2025-11-30 19:48:36,743 - __main__ - INFO - Генерация YOLO-данных завершена.
+2025-11-30 19:48:36,743 - __main__ - INFO - Запуск теста YOLO-структуры...
+2025-11-30 19:48:36,793 - __main__ - INFO - Подготовка Bottle завершена
+2025-11-30 20:29:35,072 - __main__ - INFO - === Подготовка данных: Bottle (MVTec AD) ===
+2025-11-30 20:29:35,390 - __main__ - INFO - Bottle / good: train=160, val=34, test=35
+2025-11-30 20:29:35,420 - __main__ - INFO - Bottle / defect_broken_large: train=14, val=3, test=3
+2025-11-30 20:29:35,454 - __main__ - INFO - Bottle / defect_broken_small: train=15, val=3, test=4
+2025-11-30 20:29:35,484 - __main__ - INFO - Bottle / defect_contamination: train=14, val=3, test=4
+2025-11-30 20:29:35,485 - __main__ - INFO - Мета-информация сохранена в C:\Users\Legion 5 pro\Desktop\defect-detection-system\data\dataset_info.json
+2025-11-30 20:29:35,485 - __main__ - INFO - ============================================================
+2025-11-30 20:29:35,488 - __main__ - INFO - ============================================================
+2025-11-30 20:29:35,491 - __main__ - INFO -   Класс: defect_broken_large
+2025-11-30 20:29:35,493 - __main__ - INFO -   img_name: 002.png
+2025-11-30 20:29:35,493 - __main__ - INFO -   cls_name: defect_broken_large
+2025-11-30 20:29:35,493 - __main__ - INFO -   mask_path: C:\Users\Legion 5 pro\Desktop\defect-detection-system\data\raw\mvtec_bottle\ground_truth\broken_large\002_mask.png
+2025-11-30 20:29:35,495 - __main__ - INFO -   mask_exists: True
+2025-11-30 20:29:35,547 - __main__ - INFO -   img_name: 003.png
+2025-11-30 20:29:35,547 - __main__ - INFO -   cls_name: defect_broken_large
+2025-11-30 20:29:35,547 - __main__ - INFO -   mask_path: C:\Users\Legion 5 pro\Desktop\defect-detection-system\data\raw\mvtec_bottle\ground_truth\broken_large\003_mask.png
+2025-11-30 20:29:35,547 - __main__ - INFO -   mask_exists: True
+2025-11-30 20:29:35,580 - __main__ - INFO -   img_name: 004.png
+2025-11-30 20:29:35,581 - __main__ - INFO -   cls_name: defect_broken_large
+2025-11-30 20:29:35,581 - __main__ - INFO -   mask_path: C:\Users\Legion 5 pro\Desktop\defect-detection-system\data\raw\mvtec_bottle\ground_truth\broken_large\004_mask.png
+2025-11-30 20:29:35,581 - __main__ - INFO -   mask_exists: True
+2025-11-30 20:29:35,901 - __main__ - INFO -   defect_broken_large: bbox найдено = 14
+2025-11-30 20:29:35,901 - __main__ - INFO -   Класс: defect_broken_small
+2025-11-30 20:29:36,318 - __main__ - INFO -   defect_broken_small: bbox найдено = 15
+2025-11-30 20:29:36,319 - __main__ - INFO -   Класс: defect_contamination
+2025-11-30 20:29:36,718 - __main__ - INFO -   defect_contamination: bbox найдено = 14
+2025-11-30 20:29:36,718 - __main__ - INFO -   Класс: good
+2025-11-30 20:29:36,751 - __main__ - INFO -   good: bbox найдено = 0
+2025-11-30 20:29:36,753 - __main__ - INFO -   Класс: defect_broken_large
+2025-11-30 20:29:36,839 - __main__ - INFO -   defect_broken_large: bbox найдено = 3
+2025-11-30 20:29:36,839 - __main__ - INFO -   Класс: defect_broken_small
+2025-11-30 20:29:36,925 - __main__ - INFO -   defect_broken_small: bbox найдено = 3
+2025-11-30 20:29:36,925 - __main__ - INFO -   Класс: defect_contamination
+2025-11-30 20:29:37,009 - __main__ - INFO -   defect_contamination: bbox найдено = 3
+2025-11-30 20:29:37,009 - __main__ - INFO -   Класс: good
+2025-11-30 20:29:37,020 - __main__ - INFO -   good: bbox найдено = 0
+2025-11-30 20:29:37,022 - __main__ - INFO - YOLO data.yaml: C:\Users\Legion 5 pro\Desktop\defect-detection-system\data\yolo\data.yaml
+2025-11-30 20:29:37,022 - __main__ - INFO - Генерация YOLO завершена.
+2025-11-30 20:29:37,022 - __main__ - INFO - Тест YOLO-структуры...
+2025-11-30 20:36:46,768 - __main__ - INFO - === Подготовка данных: Bottle (MVTec AD) ===
+2025-11-30 20:36:47,083 - __main__ - INFO - Bottle / good: train=160, val=34, test=35
+2025-11-30 20:36:47,110 - __main__ - INFO - Bottle / defect_broken_large: train=14, val=3, test=3
+2025-11-30 20:36:47,140 - __main__ - INFO - Bottle / defect_broken_small: train=15, val=3, test=4
+2025-11-30 20:36:47,168 - __main__ - INFO - Bottle / defect_contamination: train=14, val=3, test=4
+2025-11-30 20:36:47,169 - __main__ - INFO - Мета-информация сохранена в C:\Users\Legion 5 pro\Desktop\defect-detection-system\data\dataset_info.json
+2025-11-30 20:36:47,169 - __main__ - INFO - ============================================================
+2025-11-30 20:36:47,171 - __main__ - INFO - ============================================================
+2025-11-30 20:36:47,594 - __main__ - INFO -   defect_broken_large: 14 bbox
+2025-11-30 20:36:48,032 - __main__ - INFO -   defect_broken_small: 15 bbox
+2025-11-30 20:36:48,436 - __main__ - INFO -   defect_contamination: 14 bbox
+2025-11-30 20:36:48,608 - __main__ - INFO -   good: 0 bbox
+2025-11-30 20:36:48,699 - __main__ - INFO -   defect_broken_large: 3 bbox
+2025-11-30 20:36:48,785 - __main__ - INFO -   defect_broken_small: 3 bbox
+2025-11-30 20:36:48,874 - __main__ - INFO -   defect_contamination: 3 bbox
+2025-11-30 20:36:48,912 - __main__ - INFO -   good: 0 bbox
+2025-11-30 20:36:48,914 - __main__ - INFO - Генерация YOLO завершена.
+2025-11-30 20:36:48,915 - __main__ - INFO - Тест YOLO-структуры...
+2025-11-30 20:40:45,730 - __main__ - INFO - === Подготовка данных: Bottle (MVTec AD) ===
+2025-11-30 20:40:45,927 - __main__ - INFO - Bottle / good: train=160, val=34, test=35
+2025-11-30 20:40:45,945 - __main__ - INFO - Bottle / defect_broken_large: train=14, val=3, test=3
+2025-11-30 20:40:45,965 - __main__ - INFO - Bottle / defect_broken_small: train=15, val=3, test=4
+2025-11-30 20:40:45,985 - __main__ - INFO - Bottle / defect_contamination: train=14, val=3, test=4
+2025-11-30 20:40:45,986 - __main__ - INFO - Мета-информация сохранена в C:\Users\Legion 5 pro\Desktop\defect-detection-system\data\dataset_info.json
+2025-11-30 20:40:45,987 - __main__ - INFO - ============================================================
+2025-11-30 20:40:45,988 - __main__ - INFO - ============================================================
+2025-11-30 20:40:45,989 - __main__ - INFO - --- train ---
+2025-11-30 20:40:46,157 - __main__ - INFO - good: 150 images
+2025-11-30 20:40:46,549 - __main__ - INFO - defect_broken_large: 14 bbox
+2025-11-30 20:40:46,971 - __main__ - INFO - defect_broken_small: 15 bbox
+2025-11-30 20:40:47,380 - __main__ - INFO - defect_contamination: 14 bbox
+2025-11-30 20:40:47,380 - __main__ - INFO - train: 150 good + 43 defects = 193 total
+2025-11-30 20:40:47,380 - __main__ - INFO - --- val ---
+2025-11-30 20:40:47,435 - __main__ - INFO - good: 34 images
+2025-11-30 20:40:47,521 - __main__ - INFO - defect_broken_large: 3 bbox
+2025-11-30 20:40:47,608 - __main__ - INFO - defect_broken_small: 3 bbox
+2025-11-30 20:40:47,696 - __main__ - INFO - defect_contamination: 3 bbox
+2025-11-30 20:40:47,696 - __main__ - INFO - val: 34 good + 9 defects = 43 total
+2025-11-30 20:40:47,696 - __main__ - INFO - ИТОГО: 52 images, 52 labels
+2025-11-30 20:40:47,697 - __main__ - INFO - Генерация YOLO завершена.
+2025-11-30 20:40:47,697 - __main__ - INFO - Тест YOLO-структуры...

@@ -1,0 +1,43 @@
+2025-11-30 20:03:08,265 - __main__ - INFO - Запуск обучения YOLOv8n на C:\Users\Legion 5 pro\Desktop\defect-detection-system\data\yolo\data.yaml
+2025-11-30 20:03:08,266 - __main__ - INFO - Параметры: epochs=30, imgsz=640, batch=4
+2025-11-30 20:05:34,280 - __main__ - INFO - Запуск обучения YOLOv8n на C:\Users\Legion 5 pro\Desktop\defect-detection-system\data\yolo\data.yaml
+2025-11-30 20:05:34,280 - __main__ - INFO - Параметры: epochs=30, imgsz=640, batch=4
+2025-11-30 20:07:18,607 - __main__ - INFO - Запуск обучения YOLOv8n на C:\Users\Legion 5 pro\Desktop\defect-detection-system\data\yolo\data.yaml
+2025-11-30 20:07:18,608 - __main__ - INFO - Параметры: epochs=30, imgsz=640, batch=4
+2025-11-30 20:07:24,570 - __main__ - INFO - Запуск обучения YOLOv8n на C:\Users\Legion 5 pro\Desktop\defect-detection-system\data\yolo\data.yaml
+2025-11-30 20:07:24,570 - __main__ - INFO - Параметры: epochs=30, imgsz=640, batch=4
+2025-11-30 20:15:41,457 - __main__ - INFO - Обучение завершено
+2025-11-30 20:15:41,458 - __main__ - INFO - Лучшая модель: C:\Users\Legion 5 pro\Desktop\defect-detection-system\models\bottle_yolo\weights\best.pt
+2025-11-30 20:30:59,156 - __main__ - INFO - Запуск обучения YOLOv8n на C:\Users\Legion 5 pro\Desktop\defect-detection-system\data\yolo\data.yaml
+2025-11-30 20:30:59,157 - __main__ - INFO - Параметры: epochs=30, imgsz=640, batch=4
+2025-11-30 20:42:34,442 - __main__ - INFO - Запуск обучения YOLOv8n на C:\Users\Legion 5 pro\Desktop\defect-detection-system\data\yolo\data.yaml
+2025-11-30 20:42:34,442 - __main__ - INFO - Параметры: epochs=30, imgsz=640, batch=4
+2025-11-30 20:50:37,483 - __main__ - INFO - Запуск обучения YOLOv8n на C:\Users\Legion 5 pro\Desktop\defect-detection-system\data\yolo\data.yaml
+2025-11-30 20:50:37,484 - __main__ - INFO - Параметры: epochs=30, imgsz=640, batch=4
+2025-11-30 20:51:09,603 - __main__ - INFO - Запуск обучения YOLOv8n на C:\Users\Legion 5 pro\Desktop\defect-detection-system\data\yolo\data.yaml
+2025-11-30 20:51:09,603 - __main__ - INFO - Параметры: epochs=30, imgsz=640, batch=4
+2025-11-30 20:52:12,528 - __main__ - INFO - Запуск обучения YOLOv8n на C:\Users\Legion 5 pro\Desktop\defect-detection-system\data\yolo\data.yaml
+2025-11-30 20:52:12,528 - __main__ - INFO - Параметры: epochs=30, imgsz=640, batch=4
+2025-11-30 20:58:53,489 - __main__ - INFO - Обучение завершено
+2025-11-30 20:58:53,489 - __main__ - INFO - Лучшая модель: C:\Users\Legion 5 pro\Desktop\defect-detection-system\models\bottle_yolo\weights\best.pt
+2025-11-30 22:07:00,157 - __main__ - INFO - Запуск обучения YOLOv8 на C:\Users\Legion 5 pro\Desktop\defect-detection-system\data\yolo\data.yaml
+2025-11-30 22:07:00,158 - __main__ - INFO - Параметры: epochs=50, imgsz=640, batch=4, device=cpu
+2025-11-30 22:15:25,836 - __main__ - INFO - Запуск обучения YOLOv8 на C:\Users\Legion 5 pro\Desktop\defect-detection-system\data\yolo\data.yaml
+2025-11-30 22:15:25,837 - __main__ - INFO - Параметры: epochs=50, imgsz=640, batch=4, device=cpu
+2025-11-30 23:07:38,746 - __main__ - INFO - Запуск обучения YOLOv8n на C:\Users\Legion 5 pro\Desktop\defect-detection-system\data\yolo\data.yaml
+2025-11-30 23:07:38,747 - __main__ - INFO - Параметры: epochs=30, imgsz=640, batch=4
+2025-11-30 23:14:54,965 - __main__ - INFO - Обучение завершено
+2025-11-30 23:14:54,966 - __main__ - INFO - Лучшая модель: C:\Users\Legion 5 pro\Desktop\defect-detection-system\models\bottle_yolo\weights\best.pt
+2025-11-30 23:14:54,966 - __main__ - INFO - Тестирование лучшей модели...
+2025-11-30 23:15:00,360 - __main__ - INFO - mAP50: 0.2373
+2025-11-30 23:15:00,361 - __main__ - INFO - mAP50-95: 0.1550
+2025-12-01 00:03:38,531 - __main__ - INFO - Запуск обучения YOLOv8n на C:\Users\Legion 5 pro\Desktop\defect-detection-system\data\yolo\data.yaml
+2025-12-01 00:03:38,532 - __main__ - INFO - Параметры: epochs=30, imgsz=640, batch=4
+2025-12-01 00:06:19,898 - __main__ - INFO - Запуск обучения YOLOv8n на C:\Users\Legion 5 pro\Desktop\defect-detection-system\data\yolo\data.yaml
+2025-12-01 00:06:19,898 - __main__ - INFO - Параметры: epochs=30, imgsz=640, batch=4
+2025-12-01 13:26:03,777 - __main__ - INFO - ============================================================
+2025-12-01 13:26:03,777 - __main__ - INFO - ЗАПУСК ОБУЧЕНИЯ YOLOv8 ДЕТЕКТОРА ДЕФЕКТОВ БУТЫЛОК
+2025-12-01 13:26:03,777 - __main__ - INFO - ============================================================
+2025-12-01 13:26:03,797 - __main__ - INFO - Используемое устройство: cpu
+2025-12-01 13:26:08,583 - __main__ - INFO - Заморозка backbone на первые 12 эпох
+2025-12-01 13:26:08,584 - __main__ - INFO - Конфигурация обучения: {'data': 'C:\\Users\\Legion 5 pro\\Desktop\\defect-detection-system\\data\\yolo\\data.yaml', 'epochs': 120, 'batch': 16, 'imgsz': 640, 'device': device(type='cpu'), 'project': 'C:\\Users\\Legion 5 pro\\Desktop\\defect-detection-system\\models', 'name': 'bottle_yolo', 'exist_ok': True, 'pretrained': True, 'optimizer': 'AdamW', 'lr0': 0.001, 'lrf': 0.01, 'momentum': 0.937, 'weight_decay': 0.0005, 'warmup_epochs': 3, 'warmup_momentum': 0.8, 'warmup_bias_lr': 0.1, 'box': 7.5, 'cls': 0.5, 'dfl': 1.5, 'patience': 25, 'save': True, 'save_period': -1, 'cache': 'disk', 'workers': 8, 'plots': True, 'val': True, 'seed': 42, 'close_mosaic': 10, 'amp': True, 'freeze': 12}

@@ -1,0 +1,30 @@
+{
+    "bottle": {
+        "classes": [
+            "good",
+            "defect_broken_large",
+            "defect_broken_small",
+            "defect_contamination"
+        ],
+        "splits": {
+            "train": {
+                "good": 160,
+                "defect_broken_large": 14,
+                "defect_broken_small": 15,
+                "defect_contamination": 14
+            },
+            "val": {
+                "good": 34,
+                "defect_broken_large": 3,
+                "defect_broken_small": 3,
+                "defect_contamination": 3
+            },
+            "test": {
+                "good": 35,
+                "defect_broken_large": 3,
+                "defect_broken_small": 4,
+                "defect_contamination": 4
+            }
+        }
+    }
+}

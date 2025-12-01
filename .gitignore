@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+runs/
+data/raw/
+*.zip
+*.tar.xz
+*.onnx
+*.pt
+*.engine
+output/
