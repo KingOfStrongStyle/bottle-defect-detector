@@ -13,9 +13,6 @@ model_detector.py
 Режим обучения: transfer learning с заморозкой backbone на первых эпохах
 Устройство: CPU / CUDA (автоопределение)
 Оптимизация под edge-устройства: экспорт в ONNX/TensorRT (отдельный модуль)
-
-Автор: <Ваше имя>
-Дата:  2025
 """
 
 from __future__ import annotations
