@@ -6,7 +6,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-3776ab?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ready-00A67E?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Production--Ready-brightgreen?style=for-the-badge)
 
 **Система автоматического обнаружения дефектов в реальном времени на производственных линиях с использованием компьютерного зрения и глубокого обучения**
